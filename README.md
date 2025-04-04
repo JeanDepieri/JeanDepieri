@@ -1,7 +1,12 @@
 # Jean | Engenharia da Computação 🚀
 
+## 📌 Sobre Mim
+
 👋 Olá! Sou Jean, estudante de Engenharia da Computação na FIAP. Apaixonado por tecnologia, automação e desenvolvimento de software. Aqui no meu GitHub, compartilho projetos e experimentos da faculdade e interesses pessoais.
 
+🎓 **Engenharia da Computação - FIAP**  
+💡 Interesses: Desenvolvimento Web, Automação, Hardware & IoT  
+🔍 Buscando oportunidades de estágio na área de tecnologia  
 <div style="display: flex; align-items: center; gap: 15px;">
   <img alt="Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img alt="HTML" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -30,13 +35,6 @@
 
 ![Jean's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeanDepieri&show_icons=true&theme=radical&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanDepieri&layout=compact&theme=radical)
-
----
-
-## 📌 Sobre Mim
-🎓 **Engenharia da Computação - FIAP**  
-💡 Interesses: Desenvolvimento Web, Automação, Hardware & IoT  
-🔍 Buscando oportunidades de estágio na área de tecnologia  
 
 ---
 
