@@ -2,7 +2,7 @@
 
 ## 📌 Sobre Mim
 
-👋 Olá! Sou Jean, estudante de Engenharia da Computação na FIAP. Apaixonado por tecnologia, automação e desenvolvimento de software. Aqui no meu GitHub, compartilho projetos e experimentos da faculdade e interesses pessoais.
+👋 Olá! Sou Jean, estudante de Engenharia da Computação na FIAP. Apaixonado por tecnologia, automação e desenvolvimento de software. Aqui no meu GitHub, compartilho projetos da faculdade e interesses pessoais.
 
 🎓 **Engenharia da Computação - FIAP**  
 💡 Interesses: Desenvolvimento Web, Automação, Hardware & IoT  
