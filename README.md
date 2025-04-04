@@ -2,8 +2,6 @@
 
 👋 Olá! Sou Jean, estudante de Engenharia da Computação na FIAP. Apaixonado por tecnologia, automação e desenvolvimento de software. Aqui no meu GitHub, compartilho projetos e experimentos da faculdade e interesses pessoais.
 
-## 💻 Tecnologias que uso
-
 <div style="display: flex; align-items: center; gap: 15px;">
   <img alt="Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img alt="HTML" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
