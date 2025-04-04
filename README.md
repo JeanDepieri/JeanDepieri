@@ -1,16 +1,31 @@
-## Hi there 👋
+# Jean | Engenharia da Computação 🚀
 
-<!--
-**JeanDepieri/JeanDepieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Olá! Sou Jean, estudante de Engenharia da Computação na FIAP. Apaixonado por tecnologia, automação e desenvolvimento de software. Aqui no meu GitHub, compartilho projetos e experimentos da faculdade e interesses pessoais.
 
-Here are some ideas to get you started:
+## 🔷 Projetos em Destaque
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 [Monitoramento de Carrinhos na Linha de Produção](https://github.com/JeanDepieri/Projeto-IoT-Localizacao-do-Carrinho-Plataform)
+📍 **Descrição:** Projeto desenvolvido para otimizar o transporte de peças dentro da linha de produção da John Deere, utilizando **ESP32** e **células de carga** para rastreamento dos carrinhos. O sistema exibe a localização em um mapa interativo via HTML e CSS.  
+
+🛠 **Tecnologias utilizadas:**  
+✔️ ESP32  
+✔️ Célula de carga  
+✔️ HTML & CSS  
+✔️ Triangulação de sinal WiFi  
+
+📂 **Repositório:** [Acesse aqui](https://github.com/JeanDepieri/Projeto-IoT-Localizacao-do-Carrinho-Plataform)
+
+---
+
+## 📌 Sobre Mim
+🎓 **Engenharia da Computação - FIAP**  
+💡 Interesses: Desenvolvimento Web, Automação, Hardware & IoT  
+🔍 Buscando oportunidades de estágio na área de tecnologia  
+
+---
+
+## 📫 Contato  
+💼 [LinkedIn](https://www.linkedin.com/in/jean-depieri)  
+📧 **Email:** seuemail@gmail.com  
+
+Seja bem-vindo ao meu GitHub! 🚀  
