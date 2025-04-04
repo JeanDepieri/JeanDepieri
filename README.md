@@ -24,6 +24,6 @@
 
 ## 📫 Contato  
 💼 [LinkedIn](https://www.linkedin.com/in/jean-depieri)  
-📧 **Email:** seuemail@gmail.com  
+📧 **Email:** jeanlucasdepieri@gmail.com  
 
 Seja bem-vindo ao meu GitHub! 🚀  
