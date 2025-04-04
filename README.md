@@ -13,8 +13,6 @@
 ✔️ HTML & CSS  
 ✔️ Triangulação de sinal WiFi  
 
-📂 **Repositório:** [Acesse aqui](https://github.com/JeanDepieri/Projeto-IoT-Localizacao-do-Carrinho-Plataform)
-
 ---
 
 ## 📌 Sobre Mim
