@@ -14,7 +14,7 @@
 
 ## 🔷 Projetos em Destaque
 
-# 📌 [Monitoramento de Carrinhos na Linha de Produção](https://github.com/JeanDepieri/Projeto-IoT-Localizacao-do-Carrinho-Plataform)
+📌 [Monitoramento de Carrinhos na Linha de Produção](https://github.com/JeanDepieri/Projeto-IoT-Localizacao-do-Carrinho-Plataform)
 
 📍 **Descrição:** Projeto desenvolvido para otimizar o transporte de peças dentro da linha de produção da John Deere, utilizando **ESP32** e **células de carga** para rastreamento dos carrinhos. O sistema exibe a localização em um mapa interativo via HTML e CSS.  
 
