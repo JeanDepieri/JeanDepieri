@@ -31,13 +31,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Jean's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeanDepieri&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanDepieri&layout=compact&theme=radical)
-
----
-
 ## 📫 Contato  
 💼 [LinkedIn](https://www.linkedin.com/in/jean-depieri)  
 📧 **Email:** jeanlucasdepieri@gmail.com  
