@@ -12,7 +12,6 @@
   <img alt="HTML" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img alt="CSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img alt="Python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img alt="Arduino" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
 </div>
 
 ---
@@ -22,12 +21,6 @@
 ##📌 [Monitoramento de Carrinhos na Linha de Produção](https://github.com/JeanDepieri/Projeto-IoT-Localizacao-do-Carrinho-Plataform)
 
 📍 **Descrição:** Projeto desenvolvido para otimizar o transporte de peças dentro da linha de produção da John Deere, utilizando **ESP32** e **células de carga** para rastreamento dos carrinhos. O sistema exibe a localização em um mapa interativo via HTML e CSS.  
-
-🛠 **Tecnologias utilizadas:**  
-✔️ ESP32  
-✔️ Célula de carga  
-✔️ HTML & CSS  
-✔️ Triangulação de sinal WiFi  
 
 ---
 
