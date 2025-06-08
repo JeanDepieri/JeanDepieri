@@ -31,8 +31,6 @@
 
 ---
 
-![snake gif](https://github.com/JeanDepieri/JeanDepieri/blob/output/github-contribution-grid-snake.svg)
-
 ## 📫 Contato
 
 💼 [LinkedIn](https://www.linkedin.com/in/jean-depieri)  
