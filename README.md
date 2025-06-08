@@ -5,8 +5,9 @@
 👋 Olá! Sou Jean, estudante de Engenharia da Computação na FIAP. Apaixonado por tecnologia, automação e desenvolvimento de software. Aqui no meu GitHub, compartilho projetos da faculdade e interesses pessoais.
 
 🎓 **Engenharia da Computação - FIAP**  
-💡 Interesses: Desenvolvimento Web, Automação, Hardware & IoT  
-🔍 Buscando oportunidades de estágio na área de tecnologia  
+💡 **Interesses:** Desenvolvimento Web, Automação, Hardware & IoT  
+🔍 **Buscando oportunidades de estágio na área de tecnologia**
+
 <div style="display: flex; align-items: center; gap: 15px;">
   <img alt="Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img alt="HTML" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -18,13 +19,26 @@
 
 ## 🔷 Projetos em Destaque
 
-##📌 [Monitoramento de Carrinhos na Linha de Produção](https://github.com/JeanDepieri/Projeto-IoT-Localizacao-do-Carrinho-Plataform)
+### 📌 [Monitoramento de Carrinhos na Linha de Produção](https://github.com/JeanDepieri/Projeto-IoT-Localizacao-do-Carrinho-Plataform)
 
-📍 **Descrição:** Projeto desenvolvido para otimizar o transporte de peças dentro da linha de produção da John Deere, utilizando **ESP32** e **células de carga** para rastreamento dos carrinhos. O sistema exibe a localização em um mapa interativo via HTML e CSS.  
+📍 **Descrição:** Projeto desenvolvido para otimizar o transporte de peças na linha de produção da John Deere, utilizando **ESP32** e **células de carga** para rastreamento dos carrinhos. O sistema exibe a localização em um mapa interativo via HTML e CSS.
 
 ---
 
-## 📫 Contato  
+## 📊 Linguagens que mais uso
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanDepieri&layout=pie&theme=radical)
+
+---
+
+## 📈 Meus commits no GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeanDepieri&show_icons=true&theme=radical&hide_title=true)
+
+---
+
+## 📫 Contato
+
 💼 [LinkedIn](https://www.linkedin.com/in/jean-depieri)  
 📧 **Email:** jeanlucasdepieri@gmail.com  
 
