@@ -31,11 +31,7 @@
 
 ---
 
-## 📈 Meus commits no GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeanDepieri&show_icons=true&theme=radical&hide_title=true)
-
----
+![snake gif](https://github.com/JeanDepieri/JeanDepieri/blob/output/github-contribution-grid-snake.svg)
 
 ## 📫 Contato
 
